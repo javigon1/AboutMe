@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Roster2024.jpg" alt="Profile Picture" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Javier Gonzalez</h1>
 <h3 align="center">A passionate Software Engineer from Spain</h3>
 
