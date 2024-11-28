@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **javier.gonzalez_paterna@tufts.edu**
 
-- ⚡ Fun fact **I thi**
+- ⚡ Fun fact **I solve code in the shower**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
