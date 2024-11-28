@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="Roster2024.jpg" alt="Profile Picture" />
+  <img src="Roster2024.JPG" alt="Profile Picture" />
 </p>
 
-![Alt text](../Desktop/profile-banner.png)
 
 <h1 align="center">Hi 👋, I'm Javier Gonzalez</h1>
 <h3 align="center">A passionate Software Engineer from Spain</h3>
